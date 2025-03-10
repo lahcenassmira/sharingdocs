@@ -1,6 +1,4 @@
-
-
-It is a [Next.js](https://nextjs.org/) project built on React and TailwindCSS.
+project built on React and TailwindCSS.
 
 ## Getting Started
 
