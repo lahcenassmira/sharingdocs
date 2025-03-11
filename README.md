@@ -1,4 +1,4 @@
-project built on React and TailwindCSS.
+
 
 ## Getting Started
 
